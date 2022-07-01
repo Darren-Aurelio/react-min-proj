@@ -1,0 +1,18 @@
+[
+  {
+    "id": "fb43224fb93085dc",
+    "email": "test@dev.com",
+    "password": "$2b$10$f0675K9aAxn3rj8Fy9TRQebbajhziIxotQm8uEsTpNMYp88UyQGiO"
+  },
+  {
+    "id": "2d4fdc69c7b6bb68",
+    "email": "darren@gmail.com",
+    "password": "$2b$10$nxvI2CHfEiNqYxtPPAmyT.AFjotqEWDHRTgbk4nbQEw2LkhRxEWP6",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImRhcnJlbiIsImlhdCI6MTY1NjY4MDExMSwiZXhwIjoxNjU2NzY2NTExfQ.2m4_96nYQ4Qs0VTY90bjEifMaBTBwb3QgenmL7ZpdQI"
+  },
+  {
+    "id": "bffdde7a897d7671",
+    "email": "darrennn@gmail.com",
+    "password": "$2b$10$HcwYYOrR0.WgFbKeQocPaekXo3uwi42CA4uD8v8vNkSQom3jeAVLu"
+  }
+]

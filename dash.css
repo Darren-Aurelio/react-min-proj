@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@1,300&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color: #e1d6d0 !important;
+}
+
+.product-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
